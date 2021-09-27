@@ -1,0 +1,10 @@
+-a <server_IP_addr> -T UDP -t 500000 -i <ue2_interface_name> -Sdp 1939 -rp 90001 -m RTTM -d 50000 -c 1000 -s 0.1 -C 500
+-a <server_IP_addr> -T UDP -t 450000 -i <ue2_interface_name> -Sdp 1939 -rp 90002 -m RTTM -d 100000 -c 1000 -s 0.2 -C 500
+-a <server_IP_addr> -T UDP -t 400000 -i <ue2_interface_name> -Sdp 1939 -rp 90003 -m RTTM -d 150000 -c 1000 -s 0.3 -C 500
+-a <server_IP_addr> -T UDP -t 350000 -i <ue2_interface_name> -Sdp 1939 -rp 90004 -m RTTM -d 200000 -c 1000 -s 0.4 -C 500
+-a <server_IP_addr> -T UDP -t 300000 -i <ue2_interface_name> -Sdp 1939 -rp 90005 -m RTTM -d 250000 -c 1000 -s 0.5 -C 500
+-a <server_IP_addr> -T UDP -t 250000 -i <ue2_interface_name> -Sdp 1939 -rp 90006 -m RTTM -d 300000 -c 1000 -s 0.6 -C 500
+-a <server_IP_addr> -T UDP -t 200000 -i <ue2_interface_name> -Sdp 1939 -rp 90007 -m RTTM -d 350000 -c 1000 -s 0.7 -C 500
+-a <server_IP_addr> -T UDP -t 150000 -i <ue2_interface_name> -Sdp 1939 -rp 90008 -m RTTM -d 400000 -c 1000 -s 0.8 -C 500
+-a <server_IP_addr> -T UDP -t 100000 -i <ue2_interface_name> -Sdp 1939 -rp 90009 -m RTTM -d 450000 -c 1000 -s 0.9 -C 500
+

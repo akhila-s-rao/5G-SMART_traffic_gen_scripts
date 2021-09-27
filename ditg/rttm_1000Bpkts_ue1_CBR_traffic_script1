@@ -1,0 +1,1 @@
+-a <server_IP_addr> -T UDP -t 500000 -i <ue1_interface_name> -Sdp 1938 -rp 99001 -m RTTM -d 0 -c 1000 -s 0.1 -C 100
